@@ -200,3 +200,8 @@ img.contact-image {
   display: flex;
   align-items: center;
 }
+
+video {
+  width: 100%;
+  height: auto;
+}

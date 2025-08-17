@@ -67,6 +67,7 @@
 
 .caption-child {
   margin: 0;
+  padding: 0;
   flex-grow: 1;
   color: rgb(66, 66, 66);
   font-weight: 600;
@@ -96,4 +97,10 @@
 .active,
 .demo:hover {
   opacity: 1;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
